@@ -1,0 +1,10 @@
+2026-01-29 19:55:07,181 - ERROR - Division by zero error
+Traceback (most recent call last):
+  File "c:\Users\AISHWARYA\Downloads\python-task-1\error_handling.py", line 16, in divide_numbers
+    result = num1 / num2
+ZeroDivisionError: division by zero
+2026-01-29 19:55:30,980 - ERROR - Invalid input entered
+Traceback (most recent call last):
+  File "c:\Users\AISHWARYA\Downloads\python-task-1\error_handling.py", line 13, in divide_numbers
+    num1 = int(input("Enter first number: "))
+ValueError: invalid literal for int() with base 10: 'twenty'
